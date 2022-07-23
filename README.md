@@ -6,5 +6,7 @@ Each template is in its own branch
 
 [Pure Typescript](https://github.com/eric-robert/react-templates/tree/pure-ts)
 
+[Grommet Typescript](https://github.com/eric-robert/react-templates/tree/Grommet-ts)
+
 - Just Typescript and React. Literally nothing else
 
