@@ -1,6 +1,6 @@
-# Pure Typescript + React template
+# Pure Typescript + Grommet template
 
-Literally nothing fancy, the very very basics
+Grommet is a super nice framework for UI built on react
 
 ```
 yarn
